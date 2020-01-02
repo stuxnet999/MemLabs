@@ -41,7 +41,7 @@ Please follow the following guidelines when sending the solution:
 
 **Email Subject**: [MemLabs Solution Submission] [Lab-x] [Md5sum]
 
-![Email-Picture]()
+![Email-Picture](./Images/Submission.png)
 
 Email your solution to memlabs.submit@gmail.com
 
