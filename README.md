@@ -1,10 +1,14 @@
 ![logo](./Images/logo.png)
 
-MemLabs is an educational, introductory set of CTF-styled challenges which are aimed to encourage students, security researchers and also CTF players to get started with the field of **Memory Forensics**.
+MemLabs is an educational, introductory set of CTF-styled challenges which is aimed to encourage students, security researchers and also CTF players to get started with the field of **Memory Forensics**.
+
+**Warning**: The size of the repository is over 1 GB. Please clone or download files as needed.
 
 ## **Motivation**
 
 The main goal of creating this repository was provide a reliable platform where individuals can learn, practice and enhance their skills in the field of memory forensics. As of the CTF-style, well, what better & interesting way to learn security than by playing CTFs?
+
+I also believe these labs can be used by anyone to help others become good with the basic essentials and fundamentals of memory forensics.
 
 ## **Structure Of The Repository**
 
@@ -19,7 +23,7 @@ The main goal of creating this repository was provide a reliable platform where 
 
 ## **Flag Submission**
 
-Please mail the MD5SUM of the flags to memlabs.submit@gmail.com
+Please mail the flags of each lab to memlabs.submit@gmail.com
 
 Please have a look at the following example to better understand on how to submit the solution.
 
@@ -29,23 +33,23 @@ Suppose you find 3 flags in a particular lab,
 + flag{stage2_is_n0w_d0n3}
 + flag{stage3_is_n0w_d0n3}
 
-Concatenate all the flags like this: **flag{stage1_is_n0w_d0n3}flag{stage2_is_n0w_d0n3}flag{stage3_is_n0w_d0n3}**
+Concatenate all the flags like this: **flag{stage1_is_n0w_d0n3} flag{stage2_is_n0w_d0n3} flag{stage3_is_n0w_d0n3}**
 
-**Note**: Place the flags in the right order. The content inside the flags indicate their place
-
-The corresponding MD5sum would be **0148137b3ac7cbe3ae5844915e0de7e1**
+**Note**: Place the flags in the right order. The content inside the flags indicate their place. The flags must be space separated.
 
 ### **Email Format**
 
 Please follow the following guidelines when sending the solution:
 
-**Email Subject**: [MemLabs Solution Submission] [Lab-x] [Md5sum]
+**Email Subject**: [MemLabs Solution Submission] [Lab-x]
 
 ![Email-Picture](./Images/Submission.png)
 
 Email your solution to memlabs.submit@gmail.com
 
-## Feedback & Suggestions
+If the solution is correct, then the participant will recieve a confirmation 
+
+## **Feedback & Suggestions**
 
 I'd really love the community's feedback regarding these labs. Any suggestions or improvements are always welcome. Please email it to me.
 
