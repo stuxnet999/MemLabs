@@ -6,9 +6,9 @@ MemLabs is an educational, introductory set of CTF-styled challenges which is ai
 
 ## **Motivation**
 
-The main goal of creating this repository was provide a reliable platform where individuals can learn, practice and enhance their skills in the field of memory forensics. As of the CTF-style, well, what better & interesting way to learn security than by playing CTFs?
+The main goal of creating this repository was to provide a reliable platform where individuals can learn, practice and enhance their skills in the field of memory forensics. As of the CTF-style, well, what better & interesting way to learn security than by playing CTFs?
 
-I also believe these labs can be used by anyone to help others become good with the basic essentials and fundamentals of memory forensics.
+I also believe these labs can be used by anyone to help others become good with the essentials and fundamentals of memory forensics.
 
 ## **Structure Of The Repository**
 
@@ -23,7 +23,7 @@ I also believe these labs can be used by anyone to help others become good with 
 
 ## **Tools and Frameworks**
 
-I'd suggest everyone to use [The Volatility Framework](https://github.com/volatilityfoundation/volatility/) for analysing the memory images.
+I'd suggest everyone use [The Volatility Framework](https://github.com/volatilityfoundation/volatility/) for analysing the memory images.
 
 To install the necessary tools required for this lab,
 
@@ -34,15 +34,15 @@ $ sudo apt install ghex
 
 As these labs are quite introductory, there is no need for installing more tools. However, if the user wishes, they can install many other forensic tools.
 
-There are some widely used forensic ctf tools here: [bi0s Wiki](https://wiki.bi0s.in/forensics/Tools/)
+There are some widely used forensic CTF tools here: [bi0s Wiki](https://wiki.bi0s.in/forensics/Tools/)
 
-The preferred OS would be Linux. However, you can also use Windows (WSL) or MacOS.
+The preferred OS would be Linux. However, you can also use Windows (WSL) or macOS.
 
 ## **Flag Submission**
 
 Please mail the flags of each lab to memlabs.submit@gmail.com
 
-Please have a look at the following example to better understand on how to submit the solution.
+Please have a look at the following example to better understand how to submit the solution.
 
 Suppose you find 3 flags in a particular lab,
 
@@ -52,7 +52,7 @@ Suppose you find 3 flags in a particular lab,
 
 Concatenate all the flags like this: **flag{stage1_is_n0w_d0n3} flag{stage2_is_n0w_d0n3} flag{stage3_is_n0w_d0n3}**
 
-**Note**: Place the flags in the right order. The content inside the flags indicate their place. The flags must be space separated.
+**Note**: Place the flags in the right order. The content inside the flags indicates their place. The flags must be space-separated.
 
 ### **Email Format**
 
@@ -64,11 +64,11 @@ Please follow the following guidelines when sending the solution. Below is a sam
 
 Email your solution to memlabs.submit@gmail.com
 
-If the solution is correct, then the participant will recieve a confirmation mail.
+If the solution is correct, then the participant will receive a confirmation mail.
 
 ## **Feedback & Suggestions**
 
-I'd really love the community's feedback regarding these labs. Any suggestions or improvements are always welcome. Please email it to me.
+I'd love the community's feedback regarding these labs. Any suggestions or improvements are always welcome. Please email it to me.
 
 ## **Resources**
 
