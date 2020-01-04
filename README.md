@@ -21,6 +21,20 @@ I also believe these labs can be used by anyone to help others become good with 
 |Lab 5 | Black Tuesday | Medium - Hard |
 |Lab 6 | The Reckoning | Hard |
 
+## **Tools and Frameworks**
+
+I'd suggest everyone to use [The Volatility Framework](https://github.com/volatilityfoundation/volatility/) for analysing the memory images.
+
+To install the necessary tools required for this lab,
+
+```bash
+$ sudo apt install volatility
+$ sudo apt install ghex
+$ sudo apt install steghide
+```
+
+The preferred OS would be Linux. However, you can also use Windows (WSL) or MacOS.
+
 ## **Flag Submission**
 
 Please mail the flags of each lab to memlabs.submit@gmail.com
@@ -39,7 +53,7 @@ Concatenate all the flags like this: **flag{stage1_is_n0w_d0n3} flag{stage2_is_n
 
 ### **Email Format**
 
-Please follow the following guidelines when sending the solution:
+Please follow the following guidelines when sending the solution. Below is a sample:
 
 **Email Subject**: [MemLabs Solution Submission] [Lab-x]
 
@@ -47,7 +61,7 @@ Please follow the following guidelines when sending the solution:
 
 Email your solution to memlabs.submit@gmail.com
 
-If the solution is correct, then the participant will recieve a confirmation 
+If the solution is correct, then the participant will recieve a confirmation mail.
 
 ## **Feedback & Suggestions**
 
@@ -57,8 +71,8 @@ I'd really love the community's feedback regarding these labs. Any suggestions o
 
 P. Abhiram Kumar
 
-Cyber Forensics, [Team bi0s](twitter.com/teambi0s)
+Cyber Forensics, [Team bi0s](https://www.twitter.com/teambi0s)
 
 + Mail: abhiram1999@gmail.com
-+ Twitter: [@_abhiramkumar](twitter.com/_abhiramkumar)
-+ Personal Blog: [volatilevirus.home.blog](volatilevirus.home.blog)
++ Twitter: [@_abhiramkumar](https://www.twitter.com/_abhiramkumar)
++ Personal Blog: [volatilevirus.home.blog](https://www.volatilevirus.home.blog)
