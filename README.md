@@ -30,8 +30,11 @@ To install the necessary tools required for this lab,
 ```bash
 $ sudo apt install volatility
 $ sudo apt install ghex
-$ sudo apt install steghide
 ```
+
+As these labs are quite introductory, there is no need for installing more tools. However, if the user wishes, they can install many other forensic tools.
+
+There are some widely used forensic ctf tools here: [bi0s Wiki](https://wiki.bi0s.in/forensics/Tools/)
 
 The preferred OS would be Linux. However, you can also use Windows (WSL) or MacOS.
 
@@ -66,6 +69,11 @@ If the solution is correct, then the participant will recieve a confirmation mai
 ## **Feedback & Suggestions**
 
 I'd really love the community's feedback regarding these labs. Any suggestions or improvements are always welcome. Please email it to me.
+
+## **Resources**
+
++ [Volatility Command Reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference)
++ [My Personal Blog](https://volatilevirus.home.blog/category/memory-forensics/)
 
 ## **Author**
 
