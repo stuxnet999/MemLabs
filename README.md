@@ -2,7 +2,13 @@
 
 MemLabs is an educational, introductory set of CTF-styled challenges which is aimed to encourage students, security researchers and also CTF players to get started with the field of **Memory Forensics**.
 
-**Warning**: The size of the repository is over 1 GB. Please clone or download files as needed.
+This repository is brought to you by [Team bi0s](https://twitter.com/teambi0s). You can view other popular open soure project from bi0s at https://github.com/teambi0s.
+
+Team bi0s also conducts various flagship CTF events like
+
++ InCTF International
++ InCTF Nationals - India's first Hacking contest.
++ Amrita InCTF Junior - The only cybersecurity contest for school students in India.
 
 ## **Motivation**
 
@@ -20,6 +26,8 @@ I also believe these labs can be used by anyone to help others become good with 
 |Lab 4 | Obsession | Medium |
 |Lab 5 | Black Tuesday | Medium - Hard |
 |Lab 6 | The Reckoning | Hard |
+
+All the memory dumps are that of a Windows system.
 
 ## **Tools and Frameworks**
 
@@ -72,8 +80,10 @@ I'd love the community's feedback regarding these labs. Any suggestions or impro
 
 ## **Resources**
 
+New to CTFs? Don't know what CTFs are? Have a look at https://ctftime.org/ctf-wtf/
+
 + [Volatility Command Reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference)
-+ [My Personal Blog](https://volatilevirus.home.blog/category/memory-forensics/)
++ [My Personal Blog](https://volatilevirus.home.blog/tag/memoryforensics/) (You can have a look here to better understand on how to approach a CTF challenge)
 
 ## **Author**
 
