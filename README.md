@@ -93,4 +93,4 @@ Cyber Forensics, [Team bi0s](https://www.twitter.com/teambi0s)
 
 + Mail: abhiram1999@gmail.com
 + Twitter: [@_abhiramkumar](https://www.twitter.com/_abhiramkumar)
-+ Personal Blog: [volatilevirus.home.blog](https://www.volatilevirus.home.blog)
++ Personal Blog: [volatilevirus.home.blog](https://volatilevirus.home.blog)
