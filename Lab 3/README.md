@@ -4,7 +4,7 @@
 
 A malicious script encrypted a very secret piece of information I had on my system. Can you recover the information for me please?
 
-This challenge is composed of only 1 flag and split into 2 parts.
+**Note**: This challenge is composed of only 1 flag and split into 2 parts.
 
 **Hint**: You'll need the first half of the flag to get the second.
 
