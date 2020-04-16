@@ -20,12 +20,15 @@ I also believe these labs can be used by anyone to help others become good with 
 
 | Directory | Challenge Name | Level Of Difficulty |
 |:----:|:----:|:----:|
+|Lab 0 | Never Too Late Mister | Sample challenge |
 |Lab 1 | Beginner's Luck | Easy |
 |Lab 2 | A New World | Easy |
 |Lab 3 | The Evil's Den | Easy - Medium |
 |Lab 4 | Obsession | Medium |
 |Lab 5 | Black Tuesday | Medium - Hard |
 |Lab 6 | The Reckoning | Hard |
+
+To aid first-timers to understand how to approach CTF challenges & usage of volatility, please refer [Lab 0](https://github.com/stuxnet999/MemLabs/tree/master/Lab%200) which comes with a elaborate walkthrough & I hope it will be a great way to start MemLabs!
 
 All the memory dumps are that of a Windows system.
 
