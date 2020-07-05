@@ -8,9 +8,11 @@ We received this memory dump from our client recently. Someone accessed his syst
 
 Also, he noticed his most loved application that he always used crashed every time he ran it. Was it a virus?
 
-**Note-1**: There was a small mistake when making this challenge. If you find any string which has the string "**_L4B_3_D0n3_!!**" in it, please change it to "**_L4B_5_D0n3_!!**" and then proceed.
+**Note-1**: This challenge is composed of 3 flags.
 
-**Note-2**: You'll get the stage 2 flag only when you have the stage 1 flag.
+**Note-2**: There was a small mistake when making this challenge. If you find any string which has the string "**_L4B_3_D0n3_!!**" in it, please change it to "**_L4B_5_D0n3_!!**" and then proceed.
+
+**Note-3**: You'll get the stage 2 flag only when you have the stage 1 flag.
 
 **Challenge file**: [MemLabs_Lab5](https://mega.nz/#!Ps5ViIqZ!UQtKmUuKUcqqtt6elP_9OJtnAbpwwMD7lVKN1iWGoec)
 
