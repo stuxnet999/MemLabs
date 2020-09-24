@@ -103,6 +103,11 @@ If you're interested to play more CTFs or want to try more challenges,
 + [**AboutDFIR - Challenges & CTFs**](https://aboutdfir.com/education/challenges-ctfs/)
 + [**CTFtime.org**](https://ctftime.org/)
 
+If you are interested in knowing how to write plugins for Volatility framework,
+
++ https://stuxnet999.github.io/volatility/2020/07/04/Writing-Plugins-Volatility.html
++ https://stuxnet999.github.io/volatility/2020/08/08/Writing-Plugins-Volatility-Part2.html
+
 ## **Usage**
 
 MemLabs is completely free to anyone to use. If you wish to use MemLabs in your workshops, classes or use the labs anywhere else, it is my humble request to you to use the original links to the labs and please mention my name as well. For any other queries, please contact me.
