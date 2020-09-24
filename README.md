@@ -1,18 +1,19 @@
 <img src="./Images/MemLabs-logo.png" alt="MemLabs" class="center">
+
 ---
 
 ## **Table of contents**
 
-1. [About MemLabs](https://github.com/stuxnet999/MemLabs#About-MemLabs)
-2. [Motivation](https://github.com/stuxnet999/MemLabs#motivation)
-3. [Structure of Repository](https://github.com/stuxnet999/MemLabs#structure-of-the-repository)
-4. [Tools and Frameworks](https://github.com/stuxnet999/MemLabs#tools-and-frameworks)
-5. [Flag Submission](https://github.com/stuxnet999/MemLabs#flag-submission)
+1. [About MemLabs](https://github.com/stuxnet999/MemLabs#About-MemLabs-mag)
+2. [Motivation](https://github.com/stuxnet999/MemLabs#motivation-dart)
+3. [Structure of Repository](https://github.com/stuxnet999/MemLabs#structure-of-repository)
+4. [Tools and Frameworks](https://github.com/stuxnet999/MemLabs#tools-and-frameworks-hammer_and_wrench)
+5. [Flag Submission](https://github.com/stuxnet999/MemLabs#flag-submission-triangular_flag_on_post)
    - [Email Format](https://github.com/stuxnet999/MemLabs#email-format)
-6. [Resources](https://github.com/stuxnet999/MemLabs#resources)
+6. [Resources](https://github.com/stuxnet999/MemLabs#resources-rocket)
 7. [Feedback & suggestions](https://github.com/stuxnet999/MemLabs#feedback--suggestions)
 8. [Usage](https://github.com/stuxnet999/MemLabs#usage)
-9. [Author](https://github.com/stuxnet999/MemLabs#author)
+9. [Author](https://github.com/stuxnet999/MemLabs#author-bust_in_silhouette)
 
 ## **About MemLabs** :mag:
 
