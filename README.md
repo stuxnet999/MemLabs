@@ -1,4 +1,4 @@
-<img src="./Images/MemLabs-logo.png" alt="MemLabs" class="center">
+<img src="./Images/MemLabs.png" alt="MemLabs" class="center">
 
 ---
 
